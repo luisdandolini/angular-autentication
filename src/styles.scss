@@ -25,6 +25,11 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+  background-image: url('./assets/img/background.jpg');
+  background-position-x: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Helvetica';
 }
 ol, ul {
 	list-style: none;
